@@ -1,6 +1,6 @@
 #This Project By Rusiru Randika.Please Test And Support To Next Project#
 
-print("           This is Simple Caluclator Program             ")
+print("           This is Simple Calculator Program             ")
 print("         This Python Project By Rusiru Randika           ")
 print("          I Set Up This Program in 9th Grade             ")
 print("   I Am Currently Modifying and Publishing This Program  ")
