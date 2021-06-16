@@ -1,4 +1,4 @@
-# Simple-Calculator-Program - Python-Project-3
+# Simple-Calculator-Program-Python-Project-3
 This is Simple Calculator Program.
 I Set Up This Program in 9th Grade.
 I Am Currently Modifying and Publishing This Program. 
